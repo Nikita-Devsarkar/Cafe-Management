@@ -2,9 +2,6 @@
 
 ☕ Cafe Management System
 
-🌐 Live Demo
-👉 https://nikita-devsarkar.github.io/Cafe-Management/
-
 📌 Project Overview
 The Cafe Management System is a simple and user-friendly web application designed to manage café operations like browsing menu items, placing orders, and tracking them efficiently.
 
