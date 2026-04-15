@@ -1,12 +1,12 @@
 const exchangeRate = 83; // 1 USD ≈ ₹83 
  
 const menuItems = [
-  { name: "Espresso", price: 2.5, image: "images/espresso.jpg" },
-  { name: "Latte", price: 3.5, image: "images/latte.jpg" },
-  { name: "Cappuccino", price: 3.0, image: "images/cappuccino.jpg" },
-  { name: "Mocha", price: 3.75, image: "images/mocha.jpeg" },
-  { name: "Tea", price: 2.0, image: "images/tea.jpeg" },
-  { name: "Croissant", price: 2.25, image: "images/croissant.jpeg" }
+  { name: "Espresso", price: 2.5, image: "Espresso.jpg" },
+  { name: "Latte", price: 3.5, image: "Latte.jpg" },
+  { name: "Cappuccino", price: 3.0, image: "Cappuccino.jpg" },
+  { name: "Mocha", price: 3.75, image: "Mocha.jpeg" },
+  { name: "Tea", price: 2.0, image: "Tea.jpeg" },
+  { name: "Croissant", price: 2.25, image: "Croissant.jpeg" }
 ]; 
 let order = []; 
  
